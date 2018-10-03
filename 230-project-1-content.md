@@ -18,7 +18,7 @@ Mega Corporation running most of the world<br>
 Gameplay should focus more on User experience than story
 Intent is to make players feel like a hacker on tv or movies, player 
 opens up the game, starts typing and gets instant results
-##### Contorls
+#### Contorls
 Mostly keyboard, little or no use of the mouse
 #### Graphics
 Graphics are minimal, mostly text save for a few images which will appear in puzzles
