@@ -1,2 +1,3 @@
-# IGME-230
-Web Design github repository
+# Jack Carrig Portfolio
+Projects:
+  ShellStream - command based game using Javascript and PixiJs
