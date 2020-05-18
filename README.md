@@ -1,6 +1,9 @@
 # Jack Carrig Portfolio
-Projects:  
+## Projects:
+### Javascript:
 * [ShellStream](https://people.rit.edu/jxc2476/230/Project4/) - Command based game using Javascript and PixiJs
 * [Attractors](https://people.rit.edu/jxc2476/330/Project1/) - Interactive JS app exploring chaotic systems and attractors
+* [Asteroid Map](https://people.rit.edu/jxc2476/330/Project-3/) - Interactive map which shows Asteroid impact data and radius on a map
+### C#:
 * Slow Canter to the Right - 2D game programmed using C#
 * Asteroids - Re-creation of classic Asteroids game in C# and Unity
