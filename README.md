@@ -9,6 +9,6 @@
 * Asteroids - Re-creation of classic Asteroids game in C# and Unity
 * BattleBlimps (Made with [Jackson Shuminski](https://github.com/JacksonShuminski/BattleBlimps)) - 50 Player battle royale with artillery equipped airships
 ### Level Design
-[Portal 2](https://youtu.be/0nlKEEy4Auc)
-[BattleBlock Theater](https://youtu.be/vYRD0roUlaY)
-[Half-Life 2](https://youtu.be/WOt8AnQH-54)
+* [Portal 2](https://youtu.be/0nlKEEy4Auc)
+* [BattleBlock Theater](https://youtu.be/vYRD0roUlaY)
+* [Half-Life 2](https://youtu.be/WOt8AnQH-54)
