@@ -1,6 +1,6 @@
 # Jack Carrig Portfolio
 ## Projects:
-###[Changeling](https://www.changelingvr.com/)
+### [Changeling](https://www.changelingvr.com/)
 Worked as a web designer and developer for this website during spring 2021
 ### Javascript:
 * [ShellStream](https://people.rit.edu/jxc2476/230/Project4/) - Command based game using Javascript and PixiJs
@@ -9,7 +9,9 @@ Worked as a web designer and developer for this website during spring 2021
 ### C#:
 * Slow Canter to the Right - 2D game programmed using C#
 * Asteroids - Re-creation of classic Asteroids game in C# and Unity
-* BattleBlimps (Made with [Jackson Shuminski](https://github.com/JacksonShuminski/BattleBlimps)) - 50 Player battle royale with artillery equipped airships
+* BattleBlimps (Made with [Jackson Shuminski](https://github.com/JacksonShuminski/BattleBlimps)) - 50 Player battle royale with artillery equipped airships  
+### C++
+* Target Practice - final group project, a simple fps made using a custom C++ graphics engine from that class. 
 ### Level Design
 * [Portal 2](https://youtu.be/0nlKEEy4Auc)
 * [BattleBlock Theater](https://youtu.be/vYRD0roUlaY)
